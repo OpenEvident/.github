@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/orgs/OpenEvident/discussions
+    about: For general questions and discussion that isn't a bug report or feature request
+  - name: Report a security vulnerability
+    url: https://github.com/OpenEvident/vindicate/security/advisories/new
+    about: Please do not report security vulnerabilities through public issues
