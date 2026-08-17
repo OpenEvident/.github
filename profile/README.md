@@ -8,7 +8,7 @@ OpenEvident builds open source developer tools for teams working with AI coding 
 
 ## Principles
 
-We publish everything under the GNU Affero General Public License v3.0. If you build on our work, your improvements stay open too. There is no telemetry you cannot disable, no feature gated behind a login, and no dependency on a service we operate.
+We publish everything under the Apache License, Version 2.0. There is no telemetry you cannot disable, no feature gated behind a login, and no dependency on a service we operate.
 
 ## Contributing
 

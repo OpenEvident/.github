@@ -36,7 +36,7 @@ Common types are `feat`, `fix`, `docs`, `refactor`, `test`, and `chore`. The sco
 
 ## Sign off your commits
 
-OpenEvident projects are licensed under the GNU Affero General Public License v3.0. To keep the provenance of every contribution clear, we ask that you sign off your commits using the Developer Certificate of Origin:
+OpenEvident projects are licensed under the Apache License, Version 2.0. To keep the provenance of every contribution clear, we ask that you sign off your commits using the Developer Certificate of Origin:
 
 ```
 git commit -s -m "your message"
