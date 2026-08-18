@@ -6,6 +6,8 @@ OpenEvident builds open source developer tools for teams working with AI coding 
 
 **[Vindicate](https://github.com/OpenEvident/vindicate)** is a local first, AI agent driven Playwright test automation toolkit. It runs entirely on your machine and exposes an MCP server that agents such as Cursor, Claude Code, and GitHub Copilot can call directly to ground, generate, execute, and heal end to end tests.
 
+**[Evident](https://github.com/OpenEvident/evident)** is a framework for verifying flows that span multiple services, built to be used by coding agents the way Playwright is used for browser tests. It triggers a real request against your services, then proves what happened downstream by reading the structured logs they already produce, no new instrumentation or embedded tracing agent required.
+
 ## Principles
 
 We publish everything under the Apache License, Version 2.0. There is no telemetry you cannot disable, no feature gated behind a login, and no dependency on a service we operate.
